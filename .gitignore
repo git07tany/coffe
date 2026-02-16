@@ -1,0 +1,9 @@
+# сборка Next.js — при запуске npm run dev создаётся заново
+.next/
+
+# зависимости
+node_modules/
+
+# прочее
+.env*.local
+*.log
